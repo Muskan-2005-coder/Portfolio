@@ -5,7 +5,7 @@ A clean, responsive, and modern developer portfolio to showcase my projects, ski
 ---
 
 # 🧑‍💼 About Me
-I’m Muskan Kumari, a CSE student at NIT Patna, passionate about full stack development and open source. This portfolio is a reflection of my journey and work.
+I’m Muskan Kumari, a CSE student at NIT Patna, passionate about full stack development, machine learning and open source. This portfolio is a reflection of my journey and work.
 
 ---
 
