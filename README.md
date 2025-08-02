@@ -9,7 +9,7 @@ I’m Muskan Kumari, a CSE student at NIT Patna, passionate about full stack dev
 
 ---
 
-## 🌐 Live Demo
+## 🌐Live Demo
 
 🔗 [View Portfolio](https://portfolio-five-beryl-47.vercel.app/)
 
